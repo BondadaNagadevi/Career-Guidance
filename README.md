@@ -1,2 +1,2 @@
 # Career-Guidance
-this is career guidance website which is beneficial to students.
+This webiste is career guidance website which is beneficial to students. It can gide students throuh the pathways in which they want to create their strong career.
